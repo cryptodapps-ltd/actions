@@ -1,6 +1,6 @@
 name: 'Build Plist Edit'
 description: ''
-author: 'OnekeyHq'
+author: 'CryptoDapps'
 inputs:
   buildNumber:
     description: 'buildNumber'

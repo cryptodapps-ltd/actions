@@ -1,6 +1,6 @@
 name: 'Build Gradle Edit'
 description: ''
-author: 'OnekeyHq'
+author: 'CryptoDapps'
 inputs:
   versionCode:
     description: 'versionCode'

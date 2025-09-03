@@ -1,6 +1,6 @@
 name: 'Notice Slack App Update'
 description: 'Notify Slack app updates'
-author: 'OnekeyHq'
+author: 'CryptoDapps'
 inputs:
   web-hook-url:
     description: 'Slack webhook url'
